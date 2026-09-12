@@ -134,10 +134,3 @@ Run the app and try this yourself rather than trusting numbers in a README — t
 
 Try one of the built-in multilingual samples (e.g. Telugu or Japanese) afterward — you'll typically see a much higher tokens-per-word ratio than English, which is exactly the kind of thing this tool exists to make visible.
 
-## Future improvements
-
-- Pluggable tokenizer registry if a third/fourth model is added (intentionally not built now — over-engineering for two models)
-- Optional tokenizer diffing view (highlight where GPT-2 and BERT segment the same substring differently)
-- Persisted comparison history for a session
-- Streaming tokenization for very large inputs
-
