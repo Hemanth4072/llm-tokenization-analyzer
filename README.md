@@ -141,6 +141,3 @@ Try one of the built-in multilingual samples (e.g. Telugu or Japanese) afterward
 - Persisted comparison history for a session
 - Streaming tokenization for very large inputs
 
-## Resume bullet
-
-> Built an interactive LLM tokenization analyzer using React, TypeScript, FastAPI, and Hugging Face Transformers to compare GPT-2 and BERT tokenization behavior, including REST APIs for tokenization, statistics, context-window utilization, and configurable cost estimation, with a typed frontend/backend contract and automated tests.
